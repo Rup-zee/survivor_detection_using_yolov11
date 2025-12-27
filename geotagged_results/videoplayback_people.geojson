@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27069922652916,
+          13.082699548476723,
+          48.53827503444714
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "track_id": 24,
+        "confidence": 

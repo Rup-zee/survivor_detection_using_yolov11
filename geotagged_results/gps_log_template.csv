@@ -1,0 +1,8 @@
+# GPS Log File Template - CSV Format
+# You can use either 'timestamp' (in seconds) or 'frame' numbers
+# Delete these comment lines before using
+
+timestamp,latitude,longitude,altitude
+0.0,13.0827,80.2707,50.0
+0.033,13.0828,80.2708,50.1
+0.066,13.0829,80.2709,50.2

@@ -1,0 +1,6 @@
+names:
+- person
+nc: 1
+path: C:\Users\jhadi\nidar\visdrone_yolo
+train: images/train
+val: images/val

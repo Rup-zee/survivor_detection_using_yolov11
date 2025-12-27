@@ -1,0 +1,7 @@
+# GPS Log File Template - TXT Format
+# Format: timestamp latitude longitude altitude
+# Lines starting with # are ignored
+
+0.0 13.0827 80.2707 50.0
+0.033 13.0828 80.2708 50.1
+0.066 13.0829 80.2709 50.2
